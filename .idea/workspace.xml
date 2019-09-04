@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d6bbcba-fe5e-40f3-9415-72eb7d56295a" name="Default Changelist" comment="" />
+    <list default="true" id="5d6bbcba-fe5e-40f3-9415-72eb7d56295a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/eb8dce69-00ca-4116-9380-9d03c442f732.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/QYDLDeviceInfo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -186,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="682" />
     <option name="height" value="738" />
   </component>
@@ -381,7 +385,7 @@
       <workItem from="1566369126835" duration="2709000" />
       <workItem from="1566436387610" duration="7674000" />
       <workItem from="1566973044206" duration="7152000" />
-      <workItem from="1567586038743" duration="1405000" />
+      <workItem from="1567586038743" duration="1853000" />
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <created>1567587919500</created>
@@ -394,10 +398,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78016000" />
+    <option name="totallyTimeSpent" value="78464000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1036" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49037036" visible="true" weight="0.17542787" />
@@ -669,7 +673,7 @@
     <entry file="file://$PROJECT_DIR$/QYDLDeviceInfo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
