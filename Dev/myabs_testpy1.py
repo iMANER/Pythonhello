@@ -1,4 +1,4 @@
-from abstest import  my_abs,move,quadratic,power,power1,enroll,add_end,calc,person,person1
+from Dev.abstest import  my_abs,move,quadratic,power,power1,enroll,add_end,calc,person,person1
 import math
 #测试my_abs
 print(my_abs(-20))

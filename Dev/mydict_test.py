@@ -1,5 +1,5 @@
 import unittest
-from mydict import Dict
+from Dev.mydict import Dict
 
 class TestDict(unittest.TestCase):
     def test_init(self):
