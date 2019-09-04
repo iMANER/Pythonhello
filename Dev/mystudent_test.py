@@ -1,5 +1,5 @@
 import unittest
-from mysdutent import Student
+from Dev.mysdutent import Student
 
 class TestStudent(unittest.TestCase):
     def test_80_to_100(self):

@@ -1,4 +1,4 @@
-from  func_testpy import fact,fac1
+from Dev.func_testpy import fact,fac1
 from collections.abc import Iterable
 
 #import builtins; builtins.abs = 10
